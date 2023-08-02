@@ -1,0 +1,2 @@
+http://localhost:9000/timestamp
+http://localhost:9000/timestamp/:ts  { example: http://localhost:9000/timestamp/Aug022023-163433}
